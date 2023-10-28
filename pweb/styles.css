@@ -1,7 +1,7 @@
 /* Reset some default browser styles */
 body, h1, h2, h3, p {
     margin: 0;
-    padding: 0;
+    padding: 10;
 }
 
 /* Set a background color and text color for the whole page */
